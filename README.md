@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Welcome to Hashlet
 
-<!--
-**hashletDev/hashletDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We’re a full-stack Web3 development agency delivering scalable, secure, and user-friendly blockchain solutions.
 
-Here are some ideas to get you started:
+## 🚀 What We Do
+- Full-stack development (Node.js, React, Next.js)
+- Smart contract & DApp development (Solidity, Web3.js)
+- UI/UX design for Web3 platforms
+- Token presale, staking, & airdrop dashboards
+- Automation, bots, and custom API integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: JavaScript, TypeScript, Solidity
+- Frameworks: React, Next.js, Express.js
+- Blockchain: Ethereum, Solana, Polygon
+- Tools: Hardhat, Figma, Git, MongoDB, Firebase
+
+## 🌐 Let's Connect
+- 🌍 Website: [hashlet.net](https://hashlet.net)
+- 🐦 Twitter/X: [@hashlet_Design](https://x.com/hashlet_Design)
+- 📩 Email: contact@hashlet.net
